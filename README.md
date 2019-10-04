@@ -256,6 +256,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest19-f
 - Wasapon Benth Strife, Student - port vila, vanuatu
 - Matheus dos Santos Leite, Software Developer - Brazil
 - Kate Jody, Developer Web -Ha Noi, Vietnam
+- TechGirl007, Student, Australia
 
 > (Add your name, profession and location right above this markdown comment)
 
